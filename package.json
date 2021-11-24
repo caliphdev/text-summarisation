@@ -25,7 +25,7 @@
     "test" : "mocha --timeout 0"
   },
   "dependencies": {
-    "@vitalets/google-translate-api": "^1.0.5",
+    "@vitalets/google-translate-api": "^7.0.0",
     "node-fetch": "^2.3.0"
   },
   "devDependencies": {
