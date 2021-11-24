@@ -6,12 +6,7 @@ This package can be used to summarize longs texts to custom summarized sentence.
 ## install the package
 ### using npm
 ```
-npm install text-summarize
-```
-### using yarn
-
-```
-yarn add text-summarize
+npm install git+https://github.com/Caliph91/text-summarisation
 ```
 
 ## Usage
